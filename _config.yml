@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 鸢的个人博客
-brief-intro: OJer
+title: 吴志辉的博客
+brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wuzhihui8.github.io" # the base hostname & protocol for your site
 
@@ -20,23 +20,23 @@ github_username:  wuzhihui8
 email: wuzhihui@scau.edu.cn
 weibo_username: mobileliker
 zhihu_username: mobileliker
-linkedIn_username: gaohaoyang
+linkedIn_username: 
 dribbble_username:
 
-description_footer: 来自鸢的个人博客
+description_footer: 来自吴志辉的个人博客
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #mobileliker
-disqus_shortname: #mobileliker
+duoshuo_shortname: 
+disqus_shortname: 
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 baidu_tongji_id: ebe6b1befb1134eadf286c1e8e9ad713
-google_analytics_id: UA-72449510-4 # google 分析追踪id
+google_analytics_id: 
 
 # Build settings
 markdown: kramdown
